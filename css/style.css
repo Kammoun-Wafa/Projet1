@@ -1,13 +1,38 @@
-p {
-    color:red;
+
+
+.txtcolor{
+    color:blue;
 
 }
-.par{
-    color:blue;
+.bg{
+    background-color: #f0f0f0;
 }
-.pvert{
-    color:green
-}
-#color{
-    color: yellow;
-}
+.textposition{
+    padding-top: 200px;
+   }
+   .position {
+    padding-left: 200px;
+   }
+   .formstyle{
+    background-color: white;
+    width: 70%;
+    height: 70%;
+    margin-top: 120px;
+    padding: 5% 5% 5% 5%;
+    border-radius: 10px;
+    box-shadow: rgba(0, 0, 0, 0.055) 10px 10px 10px;
+   }
+   .form-control{
+    margin-bottom: 15px;
+   }
+   .btn{
+    width: 100%;
+    margin-bottom: 15px;
+   }
+   a{
+    margin-left: 30%;
+   }
+   .btnposition{
+    width: 50%;
+    margin-left: 25%;
+   }
